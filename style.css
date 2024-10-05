@@ -1,0 +1,79 @@
+ :root{
+  --primary-color:black;
+  --dvsd:red;
+
+ }
+ 
+ *{ 
+   background-color: black;
+   text-decoration: none;
+ }
+
+   .about { 
+    display: flex;
+    justify-content: space-around;
+   align-items: center;  
+   color: aliceblue;  
+   
+}
+ .megz {
+  display: flex; 
+  justify-content: space-between;
+  list-style-type: none;
+/*    background-color:  rgba( 255, 255, 255,0.2); */
+
+} .megz li {
+   margin-right: 5rem;
+   color: white;
+ /*   background-color:  rgba( 255, 255, 255,0.2); */
+
+  }
+
+  .nn { display: flex;
+    justify-content: space-around;
+
+    color: aliceblue;}
+  .boo {display: flex; justify-content: space-around; 
+     align-items: center;
+
+  }
+   .nj { width: 20rem; display: flex;
+   justify-content: center;}
+   .hh {color: white; 
+    text-align: center; text-decoration: underline; text-decoration-color: aqua;
+  }
+    .cv { display: flex; justify-content: center;}
+    .Skills { text-align: center;}
+     .ph { display: flex; 
+
+    justify-content: space-around;}
+    .ph img{
+      margin-right: 5rem;
+    }
+     .inf { display: flex;
+     justify-content: space-between;} 
+      .hjk { text-align: center;}
+       .us { display: flex; justify-content: center; 
+       }
+        .massage { display: flex;
+        justify-content: center;}
+       .mk {text-align: center;}
+        .ff {text-decoration: none;
+          background-color:  rgba( 255, 255, 255,0.2);
+          padding: 1rem;
+           border-radius: 1rem;
+           box-shadow: 0.5rem 0.2rem rgb(247, 241, 241);  
+        }
+         .lolo { width: 5rem;
+         background-color: rgb(59, 63, 63); padding: 1rem; 
+         border-radius: 1rem;}
+         #email , #password { width: 20rem;
+        margin: 5rem;}
+       #massage
+         {
+            margin: 10rem;}
+
+             .user { margin-top: 5rem; margin-right: -4rem;}
+              .password { margin-top: 5rem; margin-right: -4rem;}
+             
+       
